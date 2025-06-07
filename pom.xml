@@ -119,12 +119,12 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://13.62.49.138:8081/repository/maven-releases/</url>
+            <id>nexus</id>
+            <url>http://13.62.49.138:8081/repository/boardgamefe/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
-            <url>http://13.62.49.138:8081/repository/maven-snapshots/</url>
+            <id>nexus</id>
+            <url>http://13.62.49.138:8081/repository/boardgamefe-snap</url>
         </snapshotRepository>
     </distributionManagement>
 
