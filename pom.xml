@@ -120,11 +120,11 @@
 	 <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://16.171.62.92:8081/repository/boardgamefe/</url>
+            <url>ttp://16.171.113.91:8081/repository/boardgamefe/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://16.171.62.92:8081/repository/boardgamefe-snap/</url>
+            <url>http://16.171.113.91:8081/repository/boardgamefe-snap/</url>
         </snapshotRepository>
     </distributionManagement>
 
